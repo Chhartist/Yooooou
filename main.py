@@ -28,3 +28,4 @@ btn1.place(x = 100, y = 300)
 btn2.place(x = 320, y = 300)
 
 root.mainloop()
+print('hell')
